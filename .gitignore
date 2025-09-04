@@ -1,0 +1,19 @@
+# Node-modules of libraries
+node_modules/
+
+# Build folders of compilatie-output
+build/
+bin/
+obj/
+
+# Boox specifieke bestanden die je niet wilt delen
+*.bak
+*.tmp
+*.note
+
+# Logs
+*.log
+
+# OS-specifieke bestanden
+.DS_Store
+Thumbs.db
